@@ -1,5 +1,4 @@
-# Decompile by Mardis (Tools By Hridoy)
-# Time Succes decompile : 2023-03-01 06:48:38.657478
+
 import os
 print("\033[1;92m [•] SHOAIB AHAMED  (ROBOT) SYSTEM INSTALL. . . . \033[1;30m")
 os.system("pkg install espeak")
@@ -105,7 +104,7 @@ logo = ("""\033[1;32;1m
 ███████║██║  ██║╚██████╔╝██║  ██║██║██████╔╝
 ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝ 
 \033[1;34;1m=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-×SH
-\033[1;33;1m  Github   : Bdshoaiballsadi
+\033[1;33;1m  Github   : SHOAIBAHAMED421
 \033[1;33;1m  Author   : SHOAIB AHAMED
 \033[1;33;1m  Facebook : https://facebook.com/shoaibahamed421
 \033[1;33;1m  Virson   : 0.1_FREE
